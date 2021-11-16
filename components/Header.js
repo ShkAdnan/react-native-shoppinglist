@@ -6,7 +6,7 @@ const Header = () => {
    
   return( 
     <View style={styles.header}>
-        <Text style={styles.text}>Shoping List</Text>
+        <Text style={styles.text}>Shopping List</Text>
     </View>
   )
 }
